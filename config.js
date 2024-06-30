@@ -22,7 +22,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 }
 
 //global.pairingNumber = "" //put your bot number here
-
+2349132126907
 global.mods = ['917605902011', '32460248586']
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
@@ -74,6 +74,7 @@ global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
+global.session_id = 'GuruBot~8z1DGJHd'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
 global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT'
